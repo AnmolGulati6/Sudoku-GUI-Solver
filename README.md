@@ -2,7 +2,7 @@
 
 This is a Sudoku game implemented in Python using the Pygame library. It allows you to play Sudoku puzzles and provides features such as automatic solving, sketching, and error detection
 
-# Features
+## Features
 
 - Interactive Sudoku grid with a graphical user interface
 - Ability to play Sudoku puzzles by placing values and checking for errors
@@ -12,7 +12,7 @@ This is a Sudoku game implemented in Python using the Pygame library. It allows 
 - Timer to track the gameplay time
 - Strike counter to keep track of incorrect placements
 
-# Installation
+## Installation
 
 1. Clone the repository to your local machine:
 - git clone https://github.com/AnmolGulati6/Sudoku-GUI-Solver.git
@@ -25,7 +25,7 @@ This is a Sudoku game implemented in Python using the Pygame library. It allows 
 1. Run the game by executing the gui.py file:
 2. The Sudoku game window will appear, and you can start playing Sudoku puzzles
 
-# Controls
+## Controls
 1. Use the mouse to click on a cell and select it.
 2. Press the number keys (1-9) or the numeric keypad keys to place a value in the selected cell.
 3. Press the Spacebar to automatically solve the Sudoku puzzle.
